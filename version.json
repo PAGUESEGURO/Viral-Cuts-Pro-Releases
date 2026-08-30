@@ -1,9 +1,9 @@
 {
-  "version": "1.0.7",
-  "build": 8,
-  "url_patch": "https://raw.githubusercontent.com/PAGUESEGURO/Viral-Cuts-Pro-Releases/main/patch_v1.0.7.zip",
-  "url_notes": "https://github.com/PAGUESEGURO/Viral-Cuts-Pro-Releases/releases/tag/v1.0.7",
-  "notas": "Fix: Pipeline in-process thread runner (sem janelas extras) e streaming de cortes",
+  "version": "1.0.8",
+  "build": 9,
+  "url_patch": "https://raw.githubusercontent.com/PAGUESEGURO/Viral-Cuts-Pro-Releases/main/patch_v1.0.8.zip",
+  "url_notes": "https://github.com/PAGUESEGURO/Viral-Cuts-Pro-Releases/releases/tag/v1.0.8",
+  "notas": "Fix: Propagacao real de scores, duracoes e titulos virais (fim dos falsos positivos)",
   "data": "2026-08-30",
   "min_app_version": "1.0.0"
 }
