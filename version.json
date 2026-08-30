@@ -1,9 +1,9 @@
 {
-  "version": "1.0.3",
-  "build": 4,
-  "url_patch": "https://github.com/PAGUESEGURO/Viral-Cuts-Pro-Releases/releases/download/v1.0.3/patch_v1.0.3.zip",
-  "url_notes": "https://github.com/PAGUESEGURO/Viral-Cuts-Pro-Releases/releases/tag/v1.0.3",
-  "notas": "Redesign Goal-Oriented v2.0",
-  "data": "2026-08-29",
+  "version": "1.0.4",
+  "build": 5,
+  "url_patch": "https://github.com/PAGUESEGURO/Viral-Cuts-Pro-Releases/releases/download/v1.0.4/patch_v1.0.4.zip",
+  "url_notes": "https://github.com/PAGUESEGURO/Viral-Cuts-Pro-Releases/releases/tag/v1.0.4",
+  "notas": "Fix: Desbloqueio e feedback instantaneo do verificador de atualizacoes",
+  "data": "2026-08-30",
   "min_app_version": "1.0.0"
 }
