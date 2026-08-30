@@ -1,9 +1,9 @@
 {
-  "version": "1.0.10",
-  "build": 11,
-  "url_patch": "https://raw.githubusercontent.com/PAGUESEGURO/Viral-Cuts-Pro-Releases/main/patch_v1.0.10.zip",
-  "url_notes": "https://github.com/PAGUESEGURO/Viral-Cuts-Pro-Releases/releases/tag/v1.0.10",
-  "notas": "Fix critico v1.0.9: janelas duplicadas eliminadas, falso positivo da IA corrigido, historico corrompido resolvido",
+  "version": "1.0.11",
+  "build": 12,
+  "url_patch": "https://raw.githubusercontent.com/PAGUESEGURO/Viral-Cuts-Pro-Releases/main/patch_v1.0.11.zip",
+  "url_notes": "https://github.com/PAGUESEGURO/Viral-Cuts-Pro-Releases/releases/tag/v1.0.11",
+  "notas": "Fix critico: Progresso em tempo real Whisper, extracao 10x mais rapida, timeout agil e eliminacao de telas duplicadas",
   "data": "2026-08-30",
   "min_app_version": "1.0.0"
 }
