@@ -1,9 +1,9 @@
 {
-  "version": "1.0.6",
-  "build": 7,
-  "url_patch": "https://raw.githubusercontent.com/PAGUESEGURO/Viral-Cuts-Pro-Releases/main/patch_v1.0.6.zip",
-  "url_notes": "https://github.com/PAGUESEGURO/Viral-Cuts-Pro-Releases/releases/tag/v1.0.6",
-  "notas": "Fix: Execucao CLI sem abrir janelas extras, reinicio automatico limpo e galeria sincronizada",
+  "version": "1.0.7",
+  "build": 8,
+  "url_patch": "https://raw.githubusercontent.com/PAGUESEGURO/Viral-Cuts-Pro-Releases/main/patch_v1.0.7.zip",
+  "url_notes": "https://github.com/PAGUESEGURO/Viral-Cuts-Pro-Releases/releases/tag/v1.0.7",
+  "notas": "Fix: Pipeline in-process thread runner (sem janelas extras) e streaming de cortes",
   "data": "2026-08-30",
   "min_app_version": "1.0.0"
 }
